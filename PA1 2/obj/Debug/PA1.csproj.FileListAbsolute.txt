@@ -1,0 +1,6 @@
+/Users/arima/Desktop/PA1/obj/Debug/PA1.csproj.CoreCompileInputs.cache
+/Users/arima/Desktop/PA1/bin/Debug/PA1.exe.config
+/Users/arima/Desktop/PA1/bin/Debug/PA1.exe
+/Users/arima/Desktop/PA1/bin/Debug/PA1.pdb
+/Users/arima/Desktop/PA1/obj/Debug/PA1.exe
+/Users/arima/Desktop/PA1/obj/Debug/PA1.pdb
